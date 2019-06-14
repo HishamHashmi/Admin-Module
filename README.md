@@ -3,10 +3,12 @@
 Admin Module to manage both the customer and restaurant module of DastarKhwan web application.
 
 The functionalities that have been added to this module are:
-1) Block Restaurants.
-2) UnBlock Restaurants.
-3) Block Customers.
-4) UnBlock Customers
+1) Login/SignUp. 
+2) Block Restaurants.
+3) UnBlock Restaurants.
+4) Block Customers.
+5) UnBlock Customers.
+6) Feedback about the application.
 
 Tools and Techniques used: 
 
