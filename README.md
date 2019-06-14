@@ -1,4 +1,4 @@
-# AdminModule
+# Admin-Module
 
 Admin Module to manage both the customer and restaurant module of DastarKhwan web application.
 
